@@ -1,7 +1,6 @@
 
-= Cloudera DataFlow - Workshop Student Guide
+= Cloudera DataFlow - HoL Guide
 
-image::./images/misc/banner-impact24.png[]
 
 // :toc: left 
 '''
